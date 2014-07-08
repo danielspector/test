@@ -1,0 +1,6 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =4
+let g:netrw_dirhist_1='/Users/dspector/code/lifebooker_rails_3'
+let g:netrw_dirhist_2='/Users/dspector/code/lifebooker_rails_3/api_resource'
+let g:netrw_dirhist_3='/Users/dspector/code/lifebooker_rails_3/apis/vendor/engines/provider_api/app/models/provider_api'
+let g:netrw_dirhist_4='/Users/dspector/code/lifebooker_rails_3'
